@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34994985709",
+    "firebase_url": "https://trip-it-up.firebaseio.com",
+    "project_id": "trip-it-up",
+    "storage_bucket": "trip-it-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34994985709:android:a42298d1592c0f6f31cae4",
+        "android_client_info": {
+          "package_name": "com.example.tripitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34994985709-vnbtvdjqr9vqib99ahrjrvli7gvmtopv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsMxSA4BI338BCknQ86jdYDfUJC75uMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34994985709-vnbtvdjqr9vqib99ahrjrvli7gvmtopv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
